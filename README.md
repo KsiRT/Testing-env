@@ -1,2 +1,13 @@
-# goit-markup-hw-01
-homework#1
+Usefull links: 
+
+https://devdocs.io 
+  HTML/CSS
+    
+
+  JS
+    https://cdnjs.com 
+    https://developer.mozilla.org/ru/
+    
+
+  Tools
+    https://excalidraw.com 
